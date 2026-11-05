@@ -1,0 +1,4 @@
+﻿musteri_id,churn_olasiligi,gercek_churn,llm_konusu,operasyonel_sorun,geri_bildirim,aksiyon_onerisi
+102827,0.732056,0,diğer,Çağrı merkezine erişim,"Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.",Müşteriye telefonla ulaşılamaması nedeniyle yaşanan mağduriyeti gidermek amacıyla güncel iletişim numarası üzerinden en kısa sürede arama yapılıp sorunun dinlenmesi sağlanmalıdır.
+103816,0.702036,1,fiyat;diğer,Ödeme ve POS işlemi,"Ödeme sırasında POS çalışmadı, nakit aramak zorunda kaldım.",Yaşanan POS cihazı arızasının sebebini tespit etmek ve tekrarlanmaması için ilgili teknik birimle iletişime geçmelisiniz.
+103687,0.692984,0,personel,Personel iletişimi,"Danışman ilgisizdi, sorduğum soruya doğru düzgün cevap vermedi.",Müşterinin sorduğu sorunun yanıtını ilgili birimden netleştirerek kendisiyle telefon yoluyla yeniden iletişime geçin ve sürecini açıklayın.

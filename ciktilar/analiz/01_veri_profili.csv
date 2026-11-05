@@ -1,0 +1,5 @@
+﻿tablo,satir_sayisi,kolon_sayisi,gercek_kolon_sayisi,eksik_hucre_sayisi,tam_tekerrur_satir_sayisi,benzersiz_kayit_sayisi
+Müşteriler,4235,8,8,1628,35,4200
+Araçlar,4786,8,8,0,0,4786
+Servis Kayıtları,32770,8,8,6875,310,32460
+Geri Bildirimler,640,5,5,11,0,640

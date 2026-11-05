@@ -1,0 +1,27 @@
+﻿# Data Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+scipy
+joblib
+
+# Jupyter Notebook
+jupyter
+ipykernel
+
+# File Processing
+openpyxl
+python-dotenv
+
+# Testing
+pytest
+
+# Gemini API
+google-genai
+

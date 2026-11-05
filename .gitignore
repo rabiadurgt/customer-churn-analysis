@@ -1,0 +1,36 @@
+# Python sanal ortamları
+.venv/
+venv/
+env/
+
+# Python önbellekleri
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test ve analiz önbellekleri
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ortam değişkenleri ve gizli bilgiler
+.env
+.env.*
+!.env.example
+
+
+
+# Geçici ve sistem dosyaları
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python paketleme
+build/
+dist/
+*.egg-info/
+

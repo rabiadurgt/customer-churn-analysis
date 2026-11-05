@@ -1,0 +1,13 @@
+﻿geri_bildirim_id,arac_id,kanal,metin,duygu_manuel,konular_manuel,tarih,duygu_llm,konular_llm,duygu_dogru,konu_dogru
+9013,501866,Çağrı Merkezi,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik;iş_kalitesi,2024-03-14,Olumsuz,temizlik,True,False
+9084,501452,E-posta,Yedek araç verilmesi büyük kolaylık oldu.,Olumlu,diğer,2024-02-07,Olumlu,yedek_parça,True,False
+9114,501767,Anket,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,iş_kalitesi;personel,2024-09-23,Olumlu,personel,True,False
+9295,502260,E-posta,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik;iş_kalitesi,2024-04-15,Olumsuz,temizlik,True,False
+9343,504441,E-posta,Kampanya mesajı geldi ama şubede geçerli değilmiş.,Olumsuz,fiyat;diğer,2025-06-30,Olumsuz,diğer,True,False
+9348,503675,Google Yorum,"Ödeme sırasında POS çalışmadı, nakit aramak zorunda kaldım.",Olumsuz,diğer,2023-02-10,Olumsuz,fiyat,True,False
+9352,500680,Anket,"Beklediğimden erken bitti, aradılar haber verdiler.",Olumlu,süre;personel,2023-02-22,Olumlu,süre,True,False
+9370,503244,Anket,"Arıza giderilmemiş, aynı ses devam ediyor. Tekrar gitmek zorunda kaldım.",Olumsuz,iş_kalitesi,2025-02-13,Olumsuz,iş_kalitesi;süre,True,False
+9383,503228,Anket,"Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.",Olumsuz,randevu;personel,2023-03-20,Olumsuz,diğer,True,False
+9603,504110,Google Yorum,"Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.",Olumsuz,randevu;personel,2025-06-07,Olumsuz,diğer,True,False
+9621,503798,Anket,"Fatura tutarı verilen tekliften yüksek çıktı, önceden bilgilendirilmedim.",Olumsuz,fiyat;personel,2025-04-04,Olumsuz,fiyat,True,False
+9633,500138,Anket,"Arıza giderilmemiş, aynı ses devam ediyor. Tekrar gitmek zorunda kaldım.",Olumsuz,iş_kalitesi,2024-09-13,Olumsuz,iş_kalitesi;süre,True,False

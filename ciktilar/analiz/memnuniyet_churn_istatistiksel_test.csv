@@ -1,0 +1,2 @@
+﻿test,churn_olmayan_n,churn_olan_n,u_istatistigi,p_degeri,rank_biserial_etki,anlamlilik_0_05
+Mann-Whitney U,3275,652,1347243.0,2.155991441581973e-26,0.2618770196225355,True

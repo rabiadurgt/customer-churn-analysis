@@ -1,0 +1,41 @@
+﻿geri_bildirim_id,arac_id,kanal,metin,duygu_manuel,konular_manuel,tarih,duygu_llm,konular_llm,duygu_dogru,konu_dogru
+9013,501866,Çağrı Merkezi,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik;iş_kalitesi,2024-03-14,Olumsuz,temizlik,True,False
+9017,501428,Anket,Teşekkürler,Olumlu,diğer,2023-07-27,Olumlu,diğer,True,True
+9035,504526,Anket,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,iş_kalitesi;personel,2023-07-14,Olumlu,personel;iş_kalitesi,True,True
+9044,500468,Anket,Sorun yok.,Olumlu,diğer,2023-02-17,Olumlu,diğer,True,True
+9075,501189,Anket,"Rakip markanın servisinde aynı işlem daha ucuzdu, orayı tercih edeceğim.",Olumsuz,fiyat,2025-03-29,Olumsuz,fiyat,True,True
+9082,501529,Anket,"Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.",Olumlu,personel;fiyat,2024-09-13,Olumlu,personel;fiyat,True,True
+9084,501452,E-posta,Yedek araç verilmesi büyük kolaylık oldu.,Olumlu,diğer,2024-02-07,Olumlu,yedek_parça,True,False
+9114,501767,Anket,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,iş_kalitesi;personel,2024-09-23,Olumlu,personel,True,False
+9121,502919,Anket,Mükemmel değildi ama beklentimin altında da kalmadı.,Karışık,diğer,2023-01-29,Karışık,diğer,True,True
+9135,502925,Anket,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",Olumlu,randevu;süre,2024-10-25,Olumlu,randevu;süre,True,True
+9168,500204,Çağrı Merkezi,"Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.",Olumlu,personel;fiyat,2023-08-30,Olumlu,personel;fiyat,True,True
+9170,502233,E-posta,"Randevu saatinde gittim ama iki saat bekledim, kimse bilgi vermedi.",Olumsuz,randevu;süre;personel,2023-09-23,Olumsuz,randevu;süre;personel,True,True
+9198,504613,Google Yorum,"Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.",Olumlu,personel;fiyat,2024-09-26,Olumlu,personel;fiyat,True,True
+9215,500555,Çağrı Merkezi,"Yedek parça iki hafta bekledi, bu süre boyunca aracım serviste kaldı.",Olumsuz,yedek_parça;süre,2025-06-28,Olumsuz,süre;yedek_parça,True,True
+9234,500569,Google Yorum,Mükemmel değildi ama beklentimin altında da kalmadı.,Karışık,diğer,2024-04-30,Karışık,diğer,True,True
+9264,502173,Çağrı Merkezi,"Arıza çözüldü ancak randevu sistemi çok karışık, üç kez aramak zorunda kaldım.",Karışık,iş_kalitesi;randevu,2024-07-02,Karışık,randevu;iş_kalitesi,True,True
+9268,503294,E-posta,"Servis ekibi çok ilgiliydi, aracım söz verilen saatte hazırdı. Teşekkürler.",Olumlu,personel;süre,2024-03-08,Olumlu,personel;süre,True,True
+9271,503702,Anket,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",Olumlu,randevu;süre,2025-01-09,Olumlu,randevu;süre,True,True
+9295,502260,E-posta,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik;iş_kalitesi,2024-04-15,Olumsuz,temizlik,True,False
+9320,504439,Çağrı Merkezi,"Harika bir deneyimdi, sadece üç hafta bekledim.",Karışık,süre,2024-09-17,Karışık,süre,True,True
+9340,502545,Anket,Sorun yok.,Olumlu,diğer,2023-09-02,Olumlu,diğer,True,True
+9343,504441,E-posta,Kampanya mesajı geldi ama şubede geçerli değilmiş.,Olumsuz,fiyat;diğer,2025-06-30,Olumsuz,diğer,True,False
+9348,503675,Google Yorum,"Ödeme sırasında POS çalışmadı, nakit aramak zorunda kaldım.",Olumsuz,diğer,2023-02-10,Olumsuz,fiyat,True,False
+9352,500680,Anket,"Beklediğimden erken bitti, aradılar haber verdiler.",Olumlu,süre;personel,2023-02-22,Olumlu,süre,True,False
+9354,500704,Çağrı Merkezi,"Aracı teslim alırken içi temizlenmişti, güzel bir detay.",Olumlu,temizlik,2025-06-07,Olumlu,temizlik,True,True
+9370,503244,Anket,"Arıza giderilmemiş, aynı ses devam ediyor. Tekrar gitmek zorunda kaldım.",Olumsuz,iş_kalitesi,2025-02-13,Olumsuz,iş_kalitesi;süre,True,False
+9383,503228,Anket,"Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.",Olumsuz,randevu;personel,2023-03-20,Olumsuz,diğer,True,False
+9402,500013,Anket,"Yedek parça iki hafta bekledi, bu süre boyunca aracım serviste kaldı.",Olumsuz,yedek_parça;süre,2024-09-11,Olumsuz,süre;yedek_parça,True,True
+9414,500386,Anket,Kötü diyemem ama bir daha gelir miyim bilmiyorum.,Karışık,diğer,2023-09-24,Karışık,diğer,True,True
+9456,504360,Anket,İşçilik kalitesi iyiydi ama fiyatlandırma gerçekten pahalı.,Karışık,iş_kalitesi;fiyat,2024-08-02,Karışık,fiyat;iş_kalitesi,True,True
+9491,503060,Anket,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",Olumlu,randevu;süre,2024-01-22,Olumlu,randevu;süre,True,True
+9549,504360,Anket,"Personel çok nazikti, sadece süre biraz uzun sürdü.",Karışık,personel;süre,2023-04-03,Karışık,personel;süre,True,True
+9603,504110,Google Yorum,"Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.",Olumsuz,randevu;personel,2025-06-07,Olumsuz,diğer,True,False
+9608,504353,Anket,Fena değildi.,Karışık,diğer,2024-01-28,Karışık,diğer,True,True
+9610,503444,Anket,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,iş_kalitesi;personel,2024-06-08,Olumlu,personel;iş_kalitesi,True,True
+9615,504252,Çağrı Merkezi,Kötü diyemem ama bir daha gelir miyim bilmiyorum.,Karışık,diğer,2023-09-17,Karışık,diğer,True,True
+9621,503798,Anket,"Fatura tutarı verilen tekliften yüksek çıktı, önceden bilgilendirilmedim.",Olumsuz,fiyat;personel,2025-04-04,Olumsuz,fiyat,True,False
+9623,500144,Google Yorum,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",Olumlu,randevu;süre,2024-04-11,Olumlu,randevu;süre,True,True
+9632,503808,Anket,"Aracı teslim alırken içi temizlenmişti, güzel bir detay.",Olumlu,temizlik,2024-10-14,Olumlu,temizlik,True,True
+9633,500138,Anket,"Arıza giderilmemiş, aynı ses devam ediyor. Tekrar gitmek zorunda kaldım.",Olumsuz,iş_kalitesi,2024-09-13,Olumsuz,iş_kalitesi;süre,True,False
